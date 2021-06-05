@@ -15,6 +15,6 @@ Jay Gordon is a Cloud Advocate with the Microsoft Azure Advocates. He and the re
 
 - [AzureFunBytes - Weekly Twitch Show!](https://twitter.com/azurefunbytes)
 - [Jay Gordon on dev.to](https://dev.to/jaydestro)
-- [Jay Gordon on Azure DevOps Blog](https://devblogs.microsoft.com/devops/author/jagordmicrosoft-com/)
+- [Jay Gordon on Azure DevOps Blog](https://devblogs.microsoft.com/devops/author/jagordmicrosoft-com/?WT.mc_id=devops-0000-jagord)
 - [What I Learned From A Dress, an On-Call Nightmare - Jay Gordon | WFH Conf 2020](https://www.youtube.com/watch?v=aniqpxWGsjc)
 - [How to build and deploy a containerized app to Azure Kubernetes Service (AKS) | Azure Friday](https://www.youtube.com/watch?v=E9YWmbUb9Ps)
